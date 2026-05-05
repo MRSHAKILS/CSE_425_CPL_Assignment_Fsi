@@ -1,5 +1,5 @@
 ﻿"""
-Name: [Your Name]
+Name: Shakil Ahmed
 Part 3: Simple Dining Philosophers
 """
 

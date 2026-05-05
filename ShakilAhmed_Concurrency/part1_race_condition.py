@@ -1,5 +1,5 @@
 ﻿"""
-Name: [Your Name]
+Name: Shakil Ahmed
 Part 1: Race Condition and Basic Synchronization
 """
 
